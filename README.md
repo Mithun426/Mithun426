@@ -28,16 +28,22 @@ I focus on data-driven development and system optimization. Here is the impact I
 
 ### 🛠 Tech Stack & Expertise
 
-*   **Languages:** Dart, Python (basic), SQL, OOPS.
+*   **Languages:** Dart, Python (FastAPI/Scraping), SQL, OOPS.
 *   **Flutter Core:** Widget Lifecycle, Responsive UI, App Lifecycle Management, Flutter Dev Tools.
-*   **State Management:** BLoC (Expert), Riverpod, GetX, Provider.
+*   **State Management:** BLoC (Expert), MobX, Riverpod, GetX.
 *   **Architecture:** Clean Architecture, MVVM.
-*   **Backend & Data:** RESTful APIs, WebSockets, Firebase (Auth, Firestore, FCM), SQLite, GraphQL.
-*   **DevOps & Testing:** CI/CD (GitHub Actions, Fastlane), Unit Testing, Widget Testing, Git/GitLab.
+*   **Backend & Data:** FastAPI, MySQL (TiDB), BeautifulSoup4, Firebase, WebSockets.
+*   **DevOps & Testing:** GitHub Actions, Fastlane, Unit & Widget Testing.
 
 ---
 
 ### 🏗 Featured Projects
+
+#### **FindJobs: Full-Stack Recruitment Ecosystem**
+A professional-grade job aggregation platform featuring automated web mining and advanced candidate/recruiter workflows.
+*   **Frontend:** Flutter with BLoC, GoRouter, and custom Dio interceptors for secure auth.
+*   **Backend:** FastAPI with APScheduler for background scraping tasks and MySQL for scalable storage.
+*   **Key Feature:** Python-based automated scrapers (BS4) that mine job portals 24/7 to solve fragmented listing issues.
 
 #### **MyTrain (Live Tracking System)**
 A high-performance railway tracking application featuring real-time location updates and interactive vertical timelines.
@@ -49,10 +55,6 @@ A real-time tracking and customer management platform integrated with Google Map
 *   **Tech:** Google Maps Flutter, Hive (Offline-first), RxDart.
 *   **Key Feature:** Custom info windows and real-time geocoding for precise lead management.
 
-#### **Sales Workflow Automation**
-Architected a system to streamline sales operations through lead assignment and real-time task tracking.
-*   **Key Detail:** Used Firestore synchronization to ensure real-time data integrity across teams.
-
 #### **Content Streaming Platform**
 A cross-platform app for audiobooks and podcasts featuring custom audio-text synchronization and offline playback.
 *   **Key Detail:** Implemented 60fps Rive animations and a secure payment integration.
@@ -60,7 +62,7 @@ A cross-platform app for audiobooks and podcasts featuring custom audio-text syn
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn:** [linkedin.com/in/mithunc](https://linkedin.com)
+*   **LinkedIn:** [linkedin.com/in/mithun-c-85504921b](https://www.linkedin.com/in/mithun-c-85504921b)
 *   **Email:** [mithun46200@gmail.com](mailto:mithun46200@gmail.com)
 *   **Location:** Kochi, Kerala, India
 
