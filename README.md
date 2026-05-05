@@ -51,11 +51,11 @@ A real-time tracking and customer management platform integrated with Google Map
 
 #### **Sales Workflow Automation**
 Architected a system to streamline sales operations through lead assignment and real-time task tracking[cite: 1].
-*   **Impact:** Used Firestore synchronization to ensure real-time data integrity across teams[cite: 1].
+*   **Key Detail:** Used Firestore synchronization to ensure real-time data integrity across teams[cite: 1].
 
 #### **Content Streaming Platform**
 A cross-platform app for audiobooks and podcasts featuring custom audio-text synchronization and offline playback[cite: 1].
-*   **Impact:** Implemented 60fps Rive animations and a secure payment integration[cite: 1].
+*   **Key Detail:** Implemented 60fps Rive animations and a secure payment integration[cite: 1].
 
 ---
 
