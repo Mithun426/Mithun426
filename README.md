@@ -1,11 +1,11 @@
 # Hi there, I'm Mithun C! 👋
 
-I am a **Software Engineer and Flutter Developer** based in Kochi, India, with over 3 years of experience in architecting and shipping high-performance multi-platform applications[cite: 1]. I specialize in **Clean Architecture** and **Reactive Programming**, focusing on building scalable systems that maintain high stability and exceptional performance[cite: 1].
+I am a **Software Engineer and Flutter Developer** based in Kochi, India, with over 3 years of experience in architecting and shipping high-performance multi-platform applications. I specialize in **Clean Architecture** and **Reactive Programming**, focusing on building scalable systems that maintain high stability and exceptional performance.
 
 ---
 
 ### 📈 Technical Impact at a Glance
-I focus on data-driven development and system optimization. Here is the impact I've delivered in production environments[cite: 1]:
+I focus on data-driven development and system optimization. Here is the impact I've delivered in production environments:
 
 <p align="center">
   <table align="center">
@@ -16,10 +16,10 @@ I focus on data-driven development and system optimization. Here is the impact I
       <td><b>40%</b></td>
     </tr>
     <tr align="center">
-      <td>Latency Reduction via Dio & Isolates[cite: 1]</td>
-      <td>Manual Effort Saved via CI/CD[cite: 1]</td>
-      <td>Crash-Free Session Rate[cite: 1]</td>
-      <td>Codebase Complexity Reduction[cite: 1]</td>
+      <td>Latency Reduction via Dio & Isolates</td>
+      <td>Manual Effort Saved via CI/CD</td>
+      <td>Crash-Free Session Rate</td>
+      <td>Codebase Complexity Reduction</td>
     </tr>
   </table>
 </p>
@@ -28,12 +28,12 @@ I focus on data-driven development and system optimization. Here is the impact I
 
 ### 🛠 Tech Stack & Expertise
 
-*   **Languages:** Dart, Python (basic), SQL, OOPS[cite: 1].
-*   **Flutter Core:** Widget Lifecycle, Responsive UI, App Lifecycle Management, Flutter Dev Tools[cite: 1].
-*   **State Management:** BLoC (Expert), Riverpod, GetX, Provider[cite: 1].
-*   **Architecture:** Clean Architecture, MVVM[cite: 1].
-*   **Backend & Data:** RESTful APIs, WebSockets, Firebase (Auth, Firestore, FCM), SQLite, GraphQL[cite: 1].
-*   **DevOps & Testing:** CI/CD (GitHub Actions, Fastlane), Unit Testing, Widget Testing, Git/GitLab[cite: 1].
+*   **Languages:** Dart, Python (basic), SQL, OOPS.
+*   **Flutter Core:** Widget Lifecycle, Responsive UI, App Lifecycle Management, Flutter Dev Tools.
+*   **State Management:** BLoC (Expert), Riverpod, GetX, Provider.
+*   **Architecture:** Clean Architecture, MVVM.
+*   **Backend & Data:** RESTful APIs, WebSockets, Firebase (Auth, Firestore, FCM), SQLite, GraphQL.
+*   **DevOps & Testing:** CI/CD (GitHub Actions, Fastlane), Unit Testing, Widget Testing, Git/GitLab.
 
 ---
 
@@ -50,19 +50,19 @@ A real-time tracking and customer management platform integrated with Google Map
 *   **Key Feature:** Custom info windows and real-time geocoding for precise lead management.
 
 #### **Sales Workflow Automation**
-Architected a system to streamline sales operations through lead assignment and real-time task tracking[cite: 1].
-*   **Key Detail:** Used Firestore synchronization to ensure real-time data integrity across teams[cite: 1].
+Architected a system to streamline sales operations through lead assignment and real-time task tracking.
+*   **Key Detail:** Used Firestore synchronization to ensure real-time data integrity across teams.
 
 #### **Content Streaming Platform**
-A cross-platform app for audiobooks and podcasts featuring custom audio-text synchronization and offline playback[cite: 1].
-*   **Key Detail:** Implemented 60fps Rive animations and a secure payment integration[cite: 1].
+A cross-platform app for audiobooks and podcasts featuring custom audio-text synchronization and offline playback.
+*   **Key Detail:** Implemented 60fps Rive animations and a secure payment integration.
 
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn:** [linkedin.com/in/mithunc](https://linkedin.com)[cite: 1]
-*   **Email:** [mithun46200@gmail.com](mailto:mithun46200@gmail.com)[cite: 1]
-*   **Location:** Kochi, Kerala, India[cite: 1]
+*   **LinkedIn:** [linkedin.com/in/mithunc](https://linkedin.com)
+*   **Email:** [mithun46200@gmail.com](mailto:mithun46200@gmail.com)
+*   **Location:** Kochi, Kerala, India
 
 ---
 
