@@ -1,6 +1,6 @@
 # Hi there, I'm Mithun C! 👋
 
-I am a **Software Engineer and Flutter Developer** based in Kochi, India, with over 3 years of experience in architecting and shipping high-performance multi-platform applications. I specialize in **Clean Architecture** and **Reactive Programming**, focusing on building scalable systems that maintain high stability and exceptional performance.
+I am a **Software Developer** based in Kochi, India, with over 3 years of experience in architecting and shipping high-performance multi-platform applications. I specialize in **Clean Architecture** and **Reactive Programming**, focusing on building scalable systems that maintain high stability and exceptional performance.
 
 ---
 
@@ -28,7 +28,7 @@ I focus on data-driven development and system optimization. Here is the impact I
 
 ### 🛠 Tech Stack & Expertise
 
-*   **Languages:** Dart, Python (FastAPI/Scraping), SQL, OOPS.
+*   **Languages:** Dart,Kotlin,Swift, Python (FastAPI/Scraping), SQL, OOPS.
 *   **Flutter Core:** Widget Lifecycle, Responsive UI, App Lifecycle Management, Flutter Dev Tools.
 *   **State Management:** BLoC (Expert), MobX, Riverpod, GetX.
 *   **Architecture:** Clean Architecture, MVVM.
